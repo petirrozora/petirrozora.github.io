@@ -1,0 +1,17 @@
+
+body {
+    background-color:rgb(30, 183, 206);
+}
+
+h1 {
+    color: hsl(0, 0%, 0%);
+}
+
+p {
+    font-size: 16px;
+
+}
+
+button:hover{
+    color: azure;
+}
